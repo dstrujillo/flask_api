@@ -30,7 +30,7 @@ user@host:$ source [path_to_env]/bin/activate
 >>> exit()
 ```
 
-##Ejecución y prueba
+## Ejecución y prueba
 - Para correr la aplicación ejecutar:
 ```
 (env) user@host:$ python server.py
